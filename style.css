@@ -1,0 +1,22 @@
+body{
+    background-color:#236F9D ;
+    color: azure;
+}
+.blague {
+    text-align: center;
+    margin-top: 30%; /* Ajustez cette valeur pour centrer verticalement la blague */
+    transform: translateY(-40%);
+}
+.btn{
+    justify-content: center;
+    border : none!important;
+    width: 30rem !important;
+}
+footer {
+    height: 2.5rem;
+    background-color:#334971 ;
+}
+footer .foot span{
+    margin-top: 1rem;
+    font-size: 1rem;
+}
